@@ -1,4 +1,4 @@
-# GottliebStyles
+# Gottlieb Styles Visualiser (GSV)
 
 This repository holds the MATLAB code for a small program (called the Gottlieb Styles Visualiser or GSV) that visualises the graffiti style classification system introduced by Lisa Gottlieb in her 2008 book:
 Gottlieb, L. 2008. Graffiti art styles: A classification system and theoretical analysis. McFarland & Company: Jefferson, pp. viii, 212. ISBN: 978-0-7864-3436-7
