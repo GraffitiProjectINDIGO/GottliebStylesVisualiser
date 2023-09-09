@@ -6,10 +6,10 @@
 <img src="https://github.com/GraffitiProjectINDIGO/GottliebStyles/blob/main/coverBookGottlieb.jpg" width="70%" alt="The cover of Gottlieb's 2008 book">
 </p>
 <p align="justify">
-This small program was developed within <a href="https://projectindigo.eu"> project INDIGO</a>, an academic graffiti project. The program can be run in two different ways:
+This small program was developed within <a href="https://projectindigo.eu"> project INDIGO</a>, an academic graffiti project. GSV can be run in two different ways:
 <ul>
-<li>the <b>GottliebStylesVisualiser.m</b> file holds the MATLAB R2022a source code. <a href="https://github.com/GraffitiProjectINDIGO/GottliebStyles/archive/refs/heads/main.zip">Download this file </a> and run it in MATLAB to open the GSV. Please also download the <b>coverBookGottlieb.jpg</b> image file and place it in the same folder as the MATLAB *.m file.</li>
-<li><a href="https://github.com/GraffitiProjectINDIGO/GottliebStyles/archive/refs/heads/main.zip">Download</a> <b>InstallerGSV1.0.exe</b> and double-click it to start the installer. This executable file will install the GSV AND the MATLAB Runtime environment (v9.12). In this way, MATLAB is not needed to work with GSV. However, the file was compiled on Windows 10 and will not work on MacOS and Linux systems.</li>
+<li>the <b>GottliebStylesVisualiser.m</b> file holds the MATLAB R2022a source code. <a href="https://github.com/GraffitiProjectINDIGO/GottliebStyles/archive/refs/heads/main.zip">Download and unzip this file </a> and run it in MATLAB to open the GSV. Please also download the <b>coverBookGottlieb.jpg</b> image file and place it in the same folder as the MATLAB *.m file.</li>
+<li><a href="https://github.com/GraffitiProjectINDIGO/GottliebStyles/archive/refs/heads/main.zip">Download</a> <b>InstallerGSV1.0.exe</b>. After unzipping, double-click this file to start installing GSV and the MATLAB Runtime environment (v9.12). In this way, MATLAB is not needed to work with GSV. However, the file was compiled on Windows 10 and will not work on MacOS and Linux systems.</li>
 When choosing this option, please be aware that:
 <ol>
 <li>it takes some time for the Installer to open;</li>
@@ -19,5 +19,5 @@ When choosing this option, please be aware that:
 </ul>
 </p>
 <p align="center">
-<img src="https://github.com/GraffitiProjectINDIGO/GottliebStyles/blob/main/screenshotGSV.jpg" width="90%" alt="Screenshot of the Gottlieb Styles Visualiser">
+<img src="https://github.com/GraffitiProjectINDIGO/GottliebStyles/blob/main/screenshotGSV.jpg" width="100%" alt="Screenshot of the Gottlieb Styles Visualiser">
 </p>
