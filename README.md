@@ -6,7 +6,7 @@
 <img src="https://github.com/GraffitiProjectINDIGO/GottliebStyles/blob/main/coverBookGottlieb.jpg" width="70%" alt="The cover of Gottlieb's 2008 book">
 </p>
 <p align="justify">
-This small program was developed within the academic <a href="https://projectindigo.eu" target="_blank"> graffiti project INDIGO</a>. The program can be run in two different ways:
+This small program was developed within <a href="https://projectindigo.eu" target="_blank"> project INDIGO</a>, an academic graffiti project. The program can be run in two different ways:
 <ul>
 <li>the <b>GottliebStylesVisualiser.m</b> file holds the MATLAB R2022a source code. <a href="https://github.com/GraffitiProjectINDIGO/GottliebStyles/archive/refs/heads/main.zip">Download this file </a> and run it in MATLAB to open the GSV. Please also download the <b>coverBookGottlieb.jpg</b> image file and place it in the same folder as the MATLAB *.m file.</li>
 <li><a href="https://github.com/GraffitiProjectINDIGO/GottliebStyles/archive/refs/heads/main.zip">Download</a> <b>InstallerGSV1.0.exe</b> and double-click it to start the installer. This executable file will install the GSV AND the MATLAB Runtime environment (v9.12). In this way, MATLAB is not needed to work with GSV. However, the file was compiled on Windows 10 and will not work on MacOS and Linux systems.</li>
