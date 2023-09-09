@@ -15,7 +15,7 @@ When choosing this option, please be aware that:
 <li>the *.exe file was compiled on Windows 10 and will not work on MacOS and Linux systems;</li>
 <li>it takes some time for the installer to open;</li>
 <li>around 700 MB of data will be downloaded for the MATLAB R2022a Runtime Environment;</li>
-<li>running GSV for the first time takes a few moments. Also the menu items take some time to respond upon first use. After that, the GSV program should be much more responsive.</li>
+<li>running GSV for the first time takes a few moments. Also the menu items require some time to respond upon first use. After that, the GSV program should be much more responsive.</li>
 </ol>
 </ul>
 </p>
