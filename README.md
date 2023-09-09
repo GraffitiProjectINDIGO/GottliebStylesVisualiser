@@ -8,8 +8,8 @@
 <p align="justify">
 This small program was developed within <a href="https://projectindigo.eu"> project INDIGO</a>, an academic graffiti project. GSV can be run in two different ways:
 <ul>
-<li>the <b>GottliebStylesVisualiser.m</b> file holds the MATLAB R2022a source code. <a href="https://github.com/GraffitiProjectINDIGO/GottliebStyles/archive/refs/heads/main.zip">Download this file</a>, unzip it and run it within MATLAB to open GSV. Please also download the <b>coverBookGottlieb.jpg</b> image file and place it in the same folder as the MATLAB *.m file.</li>
-<li><a href="https://github.com/GraffitiProjectINDIGO/GottliebStyles/archive/refs/heads/main.zip">Download</a> <b>InstallerGSV1.0.exe</b>. After unzipping, double-click this file to start installing GSV and the MATLAB R2022a Runtime Environment (v9.12). In this way, MATLAB is not needed to work with GSV.</li>
+<li>the <b>GottliebStylesVisualiser.m</b> file in the <b>SourceCode</b> folder holds the MATLAB R2022a source code. <a href="https://github.com/GraffitiProjectINDIGO/GottliebStyles/archive/refs/heads/main.zip">Download this file</a>, unzip it and run it within MATLAB to open GSV. Please also put the <b>coverBookGottlieb.jpg</b> image file in the same folder as the MATLAB *.m file.</li>
+<li><a href="https://github.com/GraffitiProjectINDIGO/GottliebStyles/archive/refs/heads/main.zip">Download</a> <b>InstallerGSV1.0.exe</b> from the <b>Installer</b> folder. After unzipping, double-click this file to start installing GSV and the MATLAB R2022a Runtime Environment (v9.12). In this way, MATLAB is not needed to work with GSV.</li>
 When choosing this option, please be aware that:
 <ol>
 <li>the *.exe file was compiled on Windows 10 and will not work on MacOS and Linux systems;</li>
