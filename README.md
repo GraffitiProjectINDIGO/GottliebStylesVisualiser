@@ -20,5 +20,5 @@ When choosing this option, please be aware that:
 </ul>
 </p>
 <p align="center">
-<img src="https://github.com/GraffitiProjectINDIGO/GottliebStyles/blob/main/screenshotGSV.jpg" width="100%" alt="Screenshot of the Gottlieb Styles Visualiser">
+<img src="https://github.com/GraffitiProjectINDIGO/GottliebStylesVisualiser/blob/main/Media/screenshotGSV.jpg" width="100%" alt="Screenshot of the Gottlieb Styles Visualiser">
 </p>
